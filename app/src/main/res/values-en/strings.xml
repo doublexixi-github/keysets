@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GetAppInfo</string>
+    <string name="getPublicKey">Get Public key</string>
+    <string name="getIconLabel">Get App name and Icon</string>
+</resources>

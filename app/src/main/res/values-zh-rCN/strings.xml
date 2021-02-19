@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">应用信息</string>
+    <string name="getPublicKey">获取证书公钥</string>
+    <string name="getIconLabel">获取应用名字和图标</string>
+</resources>
